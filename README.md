@@ -15,6 +15,14 @@ A sleek and user-friendly desktop application built with Python that allows you 
 
 ---
 
+## Screenshots
+
+![YouTube Downloader Screenshot](path/to/your/screenshot.png)
+
+*Replace `path/to/your/screenshot.png` with the relative path or URL to your actual screenshot image.*
+
+---
+
 ## Requirements
 
 - Python 3.7 or higher  
