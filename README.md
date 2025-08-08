@@ -35,5 +35,5 @@ A sleek and user-friendly desktop application built with Python that allows you 
 1. **Clone or download this repository**
 
 ```bash
-git clone https://github.com/USERNAME/youtube-downloader.git
+git clone https://github.com/AbhayKamath47/youtube-downloader.git
 cd youtube-downloader
