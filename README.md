@@ -17,7 +17,7 @@ A sleek and user-friendly desktop application built with Python that allows you 
 
 ## Screenshots
 
-![YouTube Downloader Screenshot](C:\Users\abhay\Desktop\CS Projects\youtube-downloader\images)
+![YouTube Downloader Screenshot](images/ytdownloadimage.png)
 
 
 
