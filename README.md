@@ -20,7 +20,6 @@ A sleek and user-friendly desktop application built with Python that allows you 
 ![YouTube Downloader Screenshot](images/ytdownloadimage.png)
 
 
-
 ---
 
 ## Requirements
